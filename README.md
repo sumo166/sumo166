@@ -1,4 +1,6 @@
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=sumo166)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sumo166)
+![](https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=sumo166)
 <!--
 **sumo166/sumo166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
