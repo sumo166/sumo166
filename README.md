@@ -1,4 +1,4 @@
-![](https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=sumo166)
+![](https://stats.justsong.cn/api/leetcode?username=sumo166&cn=)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sumo166)
 
